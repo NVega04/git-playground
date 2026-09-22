@@ -38,3 +38,6 @@ A practice repository used to learn and apply Git workflows, including branching
 
 ## License
 See the [LICENCE](./LICENCE) file for details.
+
+## Project Status
+This project is part of a practice exercise to simulate a collaborative Git workflow using Gitflow and Conventional Commits.
